@@ -1,5 +1,5 @@
-*.txt
-*.csv
-*.sql
-*.sqlite
+**/*.txt
+**/*.csv
+**/*.sql
+**/*.sqlite
 __pycache__
